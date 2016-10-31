@@ -16,17 +16,5 @@
     "target_path": "vendor/motorola",
     "branch":      "n7.1",
 	"remote":      "aicp"
-  },
-  {
-    "repository":  "android_external_bson",
-    "target_path": "external/bson",
-    "branch":      "cm-13.0",
-	"remote":      "cm"
-  },
-  {
-    "repository":  "android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "branch":      "cm-14.1",
-	"remote":      "cm"
   }
 ]
