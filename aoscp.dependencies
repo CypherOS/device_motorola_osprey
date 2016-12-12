@@ -3,7 +3,7 @@
     "repository":  "device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common",
     "branch":      "n7.1",
-	"remote":      "cypher"
+	"remote":      "aoscp"
   },
   {
     "repository":  "android_kernel_motorola_msm8916",
