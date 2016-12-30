@@ -6,15 +6,15 @@
 	"remote":      "aoscp"
   },
   {
-    "repository":  "android_kernel_motorola_msm8916",
+    "repository":  "kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-    "branch":      "cm-14.1",
-	"remote":      "cm"
+    "branch":      "n7.1",
+	"remote":      "aoscp"
   },
   {
     "repository":  "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch":      "n7.1",
-	"remote":      "aicp"
+	"remote":      "aoscp"
   }
 ]
