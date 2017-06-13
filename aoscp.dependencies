@@ -2,19 +2,19 @@
   {
     "repository":  "device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common",
-    "branch":      "nougat-mr1",
+    "branch":      "nougat-mr2",
 	"remote":      "aoscp"
   },
   {
     "repository":  "kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-    "branch":      "nougat-mr1",
+    "branch":      "nougat-mr2",
 	"remote":      "aoscp"
   },
   {
     "repository":  "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch":      "nougat-mr1",
+    "branch":      "nougat-mr2",
 	"remote":      "aoscp"
   }
 ]
