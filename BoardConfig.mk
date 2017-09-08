@@ -28,7 +28,7 @@ TARGET_INIT_VENDOR_LIB := libinit_osprey
 TARGET_RECOVERY_DEVICE_MODULES := libinit_osprey
 
 # Kernel
-TARGET_KERNEL_CONFIG := osprey_defconfig
+TARGET_KERNEL_CONFIG := aoscp_osprey_defconfig
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 16777216     # 16384 * 1024 mmcblk0p31
