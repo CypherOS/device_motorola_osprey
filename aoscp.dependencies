@@ -1,14 +1,12 @@
 [
   {
     "repository":  "device_motorola_msm8916-common",
-    "target_path": "device/motorola/msm8916-common"
-    "branch":      "parfait-release",
+    "target_path": "device/motorola/msm8916-common",
     "remote":      "aoscp"
   },
   {
     "repository":  "device_qcom_common",
-    "target_path": "device/qcom/common"
-    "branch":      "parfait-release",
+    "target_path": "device/qcom/common",
     "remote":      "aoscp"
   }
 ]
